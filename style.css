@@ -1,0 +1,44 @@
+.placeholder{
+      border-radius: 2em;
+      width: 345px;
+      text-align: center;
+      background-color: #19AEC2;
+      color: #EDEDED;
+      font-size: large;
+      border-block-style: hidden;
+}
+.heading{
+      font-size: xx-large;
+text-transform: uppercase;
+color:  #19AEC2;
+font-weight: bold;
+}
+.gold{
+ color: #EFC34D;
+}
+.grey{
+      color: #8d8c8c;
+      line-height: 0.1px;
+}
+.healthy{
+      font-weight: bold;
+font-size: xx-large;
+color: #3f5157;
+}
+.numbers{
+      font-size: xxx-large;
+      color: #EFC34D;
+      font-weight: bold;
+  }
+.img{
+      height: 100px;
+      width: 100px;
+}
+.text{
+      color:  #19AEC2; 
+      font-weight: bold;
+}
+.img1{
+      height:75px;
+      width: 60px;
+}
